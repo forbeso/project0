@@ -1,0 +1,33 @@
+html, body{
+    height: 100%;
+}
+
+.links {
+    text-align: right;
+}
+
+.form{
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.googleLogo{
+    font-size: 90px;
+}
+
+.searchBox{
+
+    width:600px;
+    height:50px;
+    border-radius: 28px;
+    border: 1px solid grey;
+    padding:10px;
+
+
+
+}
